@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Always have your website online. With a module that keeps you constantly informed about what is happening on your website.",
   "main": "index.js",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/JeanCarlosVR/website-monitor"
