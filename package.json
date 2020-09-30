@@ -1,11 +1,11 @@
 {
   "name": "website-monitor",
   "version": "1.0.0",
-  "description": "Always have your website online.",
+  "description": "Always have your website online. With a module that keeps you constantly informed about what is happening on your website.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/JeanCarlosVR/website-monitor"
   },
   "keywords": [
     "website",
