@@ -69,3 +69,6 @@ Monitor.on("reloading", (monitor) => {
     // The monitor is in the process of reload.
 });
 ```
+
+# Support
+https://discord.gg/cSJDuSX
