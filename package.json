@@ -1,0 +1,21 @@
+{
+  "name": "website-monitor",
+  "version": "1.0.0",
+  "description": "Always have your website online.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "website",
+    "uptime",
+    "utility"
+  ],
+  "author": "Jean",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "node-fetch": "^2.6.1"
+  }
+}
